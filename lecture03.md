@@ -2,20 +2,20 @@
 ## 2023年2月受講
 #### 1. サンプルアプリケーションのデプロイ
 
-<img src="img03/webアプリケーションの起動.png">
+<img src="../img03/webアプリケーションの起動.png">
 
 #### 2. APサーバーについて
 - puma  ver. 5.6.8
 - APサーバーの終了と再起動
 
-<img src="img03/アプリケーション非表示.png">
-<img src="img03/APサーバーの再起動.png"
+<img src="../img03/アプリケーション非表示.png">
+<img src="../img03/APサーバーの再起動.png"
 
 #### 3. DBサーバーについて
 - MySQL  ver. 8.0.36
 - DBサーバーの終了と再アクセス
 
-<img src="img03/DBサーバーの終了と再アクセス.png">
+<img src="../img03/DBサーバーの終了と再アクセス.png">
 
 - Railsの構成管理ツールはBundler
 
