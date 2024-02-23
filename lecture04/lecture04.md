@@ -2,6 +2,7 @@
 ## 2024年2月受講
 
 #### 1. AWS上にVPCを作成
+**名前タグ(raisetech)を付与**  
 ![VPC](../img04/VPC.png)
 
 #### 2. EC2とRDSを構築
